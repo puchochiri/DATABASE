@@ -1,0 +1,6 @@
+ORACLE 셋팅
+ORACLE 중복 셋팅
+https://velog.io/@9to0/ERROR-ORACLE-DBEAVER-%ED%99%98%EA%B2%BD%EC%84%B8%ED%8C%85
+
+Listener refused the connection with the following error:
+ORA-12514, TNS:listener does not currently know of service requested in connect descriptor
