@@ -23,3 +23,13 @@ Server : Oracle Oracle Database 18c Express Edition
          Release 18.0.0.0.0 - Production
 Driver : Oracle JDBC driver 11.2.0.4.0
 
+
+
+===================================================
+=========== 스키마/유저 생성 ======================
+===================================================
+CREATE USER C##EXERCISE_01 IDENTIFIED BY 1234;
+
+GRANT RESOURCE,CONNECT,DBA TO C##EXERCISE_01;
+
+DROP USER C##EXCERCISE_01; 
